@@ -1,0 +1,26 @@
+_repo: Tea-and-the-effects-of-tea-drinking_68148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tebb, W. Scott
+    gutenberg_agent_id: '54629'
+    url: http://www.gutenberg.org/2009/agents/54629
+description: ''
+gutenberg_issued: '2022-05-22'
+identifiers:
+  gutenberg: '68148'
+language: en
+pgterms:marc904: https://archive.org/details/b22397255/mode/2up
+pgterms:marc905: 20220429163024tebb
+pgterms:marc906: '1906'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: UK :T. Cornell & Sons,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tea and the effects of tea drinking
+url: http://www.gutenberg.org/ebooks/68148

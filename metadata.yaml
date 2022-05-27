@@ -1,11 +1,16 @@
 _repo: Tea-and-the-effects-of-tea-drinking_68148
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68148-h/images/cover.jpg
 creator:
   author:
     agent_name: Tebb, W. Scott
     gutenberg_agent_id: '54629'
     url: http://www.gutenberg.org/2009/agents/54629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68148#Tea-and-the-effects-of-tea-drinking
 gutenberg_issued: '2022-05-22'
 identifiers:
   gutenberg: '68148'
